@@ -63,18 +63,18 @@ By default, the emulator uses your PC's internet connection.
 ## 3️⃣ Features of an Android Emulator
 
 ### **🔹 Key Features**
-✅ **Multiple Device Support** – Simulates different screen sizes, RAM, and processors.  
-✅ **GPS Simulation** – Test location-based apps.  
-✅ **Call & SMS Simulation** – Fake incoming calls and texts.  
-✅ **Camera & Sensor Simulation** – Test apps that use sensors like accelerometer and gyroscope.  
-✅ **Performance Testing** – Run apps under different CPU and RAM conditions.  
+**Multiple Device Support** – Simulates different screen sizes, RAM, and processors.  
+**GPS Simulation** – Test location-based apps.  
+**Call & SMS Simulation** – Fake incoming calls and texts.  
+**Camera & Sensor Simulation** – Test apps that use sensors like accelerometer and gyroscope.  
+**Performance Testing** – Run apps under different CPU and RAM conditions.  
 
 ### **🔹 Emulator Controls**
-- 📱 **Power button** – Turn the emulator screen on/off.
-- 🔊 **Volume buttons** – Adjust volume.
-- 📍 **Location** – Simulate GPS locations.
-- 🎙️ **Microphone** – Test voice input.
-- 📸 **Camera** – Use the PC webcam for testing camera features.
+- **Power button** – Turn the emulator screen on/off.
+-  **Volume buttons** – Adjust volume.
+- **Location** – Simulate GPS locations.
+- **Microphone** – Test voice input.
+- **Camera** – Use the PC webcam for testing camera features.
 
 
 
